@@ -12,4 +12,6 @@ Well（小井记账）
     只完成了简单的记录开支功能，未来可能还会继续完善。
 
 
+预览图：
+![Alt text](https://raw.githubusercontent.com/alpheus55/Finance/master/DC252344C3E7F269FC9E194386712131.png)
 
