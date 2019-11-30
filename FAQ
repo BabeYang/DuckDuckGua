@@ -1,0 +1,7 @@
+1、TextView使用WrapContent，lines=1但是内容显示不全是怎么回事？（只能显示在屏幕内的部分，在屏幕外的部分，在属性动画拉出来看的时候就没有。）
+这里要给TextView设置宽度。
+2、ndroid studio 全局搜索结果不全？
+属于缓存原因。
+3、运行android studio时发现找不到SDK。
+开发该项目需要提前在电脑上配置好Java环境，Android SDK有两种方式取得，第一是单独下载SDK，第二是ADT Bundle（集成IDE）中自带的。
+关于本项目的纯文本格式的常见问题解答，请在此填写，并填写到代码仓库中的对应文件。
